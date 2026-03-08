@@ -33,8 +33,6 @@ The analysis shows that users exposed to **advertisements convert at a higher ra
 
 Observed conversion rates:
 
-![prop](https://github.com/user-attachments/assets/49d4344a-45cb-4960-9689-8b94046d5914)
-
 | Group | Conversion Rate |
 |------|------|
 | Ads | ~2.56% |
