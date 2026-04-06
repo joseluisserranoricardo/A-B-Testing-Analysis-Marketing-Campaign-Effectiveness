@@ -150,10 +150,8 @@ From a business perspective:
 ---
 
 ## Limitations
-- Correlation between ads seen and conversion does not imply causation
-  
+- Correlation between ads seen and conversion does not imply causation 
 - Potential user behavior bias (active users see more ads)
-  
 - No control for confounding variables (time, frequency, user segmentation)
 
 ## Final Conclusion
