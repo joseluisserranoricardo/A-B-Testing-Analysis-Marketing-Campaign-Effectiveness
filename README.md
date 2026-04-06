@@ -23,6 +23,11 @@ The main metric used to evaluate performance is the **conversion rate**.
 
 Conversion Rate = Conversions / Total Users
 
+### Statistical Assumptions
+- Observations are independent
+- Sample size is large enough for normal approximation
+- Random assignment ensures unbiased comparison
+
 ---
 
 ## Exploratory Data Analysis
@@ -144,10 +149,17 @@ From a business perspective:
 
 ---
 
+## Limitations
+- Correlation between ads seen and conversion does not imply causation
+  
+- Potential user behavior bias (active users see more ads)
+  
+- No control for confounding variables (time, frequency, user segmentation)
+
 ## Final Conclusion
 
 This A/B test provides strong statistical evidence that **advertisements outperform public service announcements in driving conversions**.
 
 Therefore, the company should consider implementing the **advertisement-based marketing strategy** as the primary marketing approach.
 
-Additionally, further improvements could be achieved by focusing advertising efforts on **high-performing days and hours identified in the analysis**.
+Additionally, further improvements could be achieved by focusing advertising efforts on **high-performing days and hours identified in the analysis**. A logistic regression model could be used to estimate the marginal effect of ads controlling for other variables.
