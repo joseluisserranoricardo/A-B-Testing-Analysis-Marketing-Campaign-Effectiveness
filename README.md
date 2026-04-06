@@ -156,8 +156,4 @@ From a business perspective:
 
 ## Final Conclusion
 
-This A/B test provides strong statistical evidence that **advertisements outperform public service announcements in driving conversions**.
-
-Therefore, the company should consider implementing the **advertisement-based marketing strategy** as the primary marketing approach.
-
-Additionally, further improvements could be achieved by focusing advertising efforts on **high-performing days and hours identified in the analysis**. A logistic regression model could be used to estimate the marginal effect of ads controlling for other variables.
+This A/B test provides strong statistical evidence that **advertisements outperform public service announcements in driving conversions**. Therefore, the company should consider implementing the **advertisement-based marketing strategy** as the primary marketing approach. Additionally, further improvements could be achieved by focusing advertising efforts on **high-performing days and hours identified in the analysis**. A logistic regression model could be used to estimate the marginal effect of ads controlling for other variables.
